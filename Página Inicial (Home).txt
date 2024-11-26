@@ -1,0 +1,77 @@
+Página Inicial (Home) (Feito)
+
+Apresentação da loja, destaques de produtos, promoções e links para outras páginas.
+
+
+
+Página de Produtos
+
+Listagem de todos os produtos disponíveis. Pode ser dividida em categorias, como masculino, feminino, infantil, etc.
+
+
+
+Página de Detalhes do Produto
+
+Informações detalhadas sobre um produto específico, incluindo imagens, descrições, tamanhos, cores, preços e botões de "Adicionar ao Carrinho".
+
+
+
+Carrinho de Compras
+
+Página onde os clientes podem ver os produtos adicionados ao carrinho, ajustar quantidades, remover itens e visualizar o total da compra.
+
+
+
+
+Página de Checkout (Finalização da Compra)
+
+Formulário para os clientes inserirem informações de envio, escolherem métodos de pagamento e revisarem os detalhes do pedido antes de concluir a compra.
+
+
+
+
+
+Página de Confirmação do Pedido
+
+Confirmação de que o pedido foi realizado com sucesso, incluindo o número do pedido e um resumo dos itens comprados.
+
+
+
+
+
+Página de Registro/Login (Feito)
+
+Formulários para os clientes criarem uma conta ou entrarem em uma conta existente.
+
+
+
+
+
+Página de Perfil do Cliente
+
+Área onde os clientes podem ver e atualizar suas informações pessoais, endereços de envio, histórico de pedidos, etc.
+
+
+
+
+
+Página de Contato
+
+Informações de contato da loja e um formulário para os clientes enviarem perguntas ou solicitações.
+
+
+
+
+
+Páginas de Ajuda/FAQ
+
+Respostas a perguntas frequentes, políticas de devolução, termos de uso, etc.
+
+
+
+
+
+
+
+
+cor fundo: d9ebe9
